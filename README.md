@@ -1,5 +1,5 @@
 # hello-world
-People Expert, Supporting Engineers:  HumanResults.com by Swati D. Doshi 
+People Expert, Supporting Engineers:  HumanResults.com 
 =======
 Hi!  
 My name is Swat D. Doshi and I recently started a company, Human Results.  
