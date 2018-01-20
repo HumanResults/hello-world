@@ -3,8 +3,7 @@ People Propeller & Connector Supporting Engineers:  HumanResults.com
 =======
 Hi!  
 
-My name is Swati and I've had the good fortune of working at Google for 8 years while it grew from 15k to 70K employees.  
-During that time I supported both non-tech talent and engineers in their growth as individuals and as members of a team.
+My name is Swati and I've had the good fortune of working at Google for 8 years while it grew from 15k to 70K employees.  During that time I supported both non-tech talent and engineers in their growth as individuals and as members of a team.
 
 I left Google to help other companies scale through their most valuable asset - their people.
 
