@@ -8,7 +8,7 @@ My name is Swati and I've had the good fortune of working at Google for 8 years 
 I left Google to help other companies scale through their most valuable asset - their people.
 
 When asked to select a niche client group, I chose Engineers.
-
+======
 Why?  
 
 Every Engineer I've had the opportunity to work closely with, I've felt a connection with despite our VAST differences.  The brainiacs I've worked with are eager to learn, curious, and care about making a difference which are some of the things we share in common.  Our differences are typically in our preferred communication styles, areas of expertise, and preference for time spent behind a screen vs. in front of people.
