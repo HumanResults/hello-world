@@ -14,7 +14,7 @@ Why?
 Every Engineer I've had the opportunity to work closely with, I've felt a connection with despite our VAST differences.  The brainiacs I've worked with are eager to learn, curious, and care about making a difference which are some of the things we share in common.  Our differences are typically in our preferred communication styles, areas of expertise, and preference for time spent behind a screen vs. in front of people.
 
 Some people think people are complicated but I don't necessarily agree.  I think coding is complicated! 
-
+=====
 By serving as a Coach, Connector, and Advocate for Engineers who want to self-actualize their potential, I am able to build a vocation rooted in my values and share knowledge in areas I voraciously study - people, human psychology, and relationships.  
 
 I support Engineers in their growth by becoming more self-aware and learning hacks around physiology and mindset.  These growth areas help individuals become more productive and ready to become leaders. By working together, Engineers learn the components required to build teams that are rooted in trust and are aligned to a common mission.   
