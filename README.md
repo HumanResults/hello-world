@@ -20,5 +20,5 @@ By serving as a Coach, Connector, and Advocate for Engineers who want to self-ac
 I support Engineers in their growth by becoming more self-aware and learning hacks around physiology and mindset.  These growth areas help individuals become more productive and ready to become leaders. By working together, Engineers learn the components required to build teams that are rooted in trust and are aligned to a common mission.   
 
 I welcome the opportunity to partner with Engineers who keep the internet safe and create products/services that make our lives better.  
-
+====
 You can learn more about me on HumanResults.com
