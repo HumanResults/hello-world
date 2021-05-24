@@ -1,5 +1,5 @@
 # hello-world
-Urgenly hiring in the Greater Philly Area, SWEs skilled in C#, SQL Server, and, .NET (or ASP.NET): https://www.humanresults.com/adept4gaming-careers
+Urgently hiring in the Greater Philly Area, SWEs skilled in C#, SQL Server, and, .NET (or ASP.NET): https://www.humanresults.com/adept4gaming-careers
 
 People Propeller & Connector Supporting Engineers:  HumanResults.com 
 =======
